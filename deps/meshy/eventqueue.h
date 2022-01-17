@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 //
 // Created by yankaixin on 2021/12/25.
 //
 
+=======
+>>>>>>> c6409f3 (Initial commit)
 #ifndef HURRICANE_EVENTQUEUE_H
 #define HURRICANE_EVENTQUEUE_H
 #pragma once
