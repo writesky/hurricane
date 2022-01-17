@@ -1,0 +1,3 @@
+/Users/yankaixin/Desktop/hurricane/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yankaixin/Desktop/hurricane/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yankaixin/Desktop/hurricane/cmake-build-debug/CMakeFiles/hurricane.dir
