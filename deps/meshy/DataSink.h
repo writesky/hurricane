@@ -1,7 +1,3 @@
-//
-// Created by yankaixin on 2021/12/22.
-//
-
 #ifndef HURRICANE_DATASINK_H
 #define HURRICANE_DATASINK_H
 #pragma once
