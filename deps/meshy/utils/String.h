@@ -1,6 +1,3 @@
-//
-// Created by yankaixin on 2022/1/3.
-//
 
 #ifndef HURRICANE_STRING_H
 #define HURRICANE_STRING_H

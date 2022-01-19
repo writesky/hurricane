@@ -1,9 +1,6 @@
-//
-// Created by yankaixin on 2022/1/3.
-//
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/iocp/IOCPStream.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/utils/logger.h"
+#include "../../iocp/IOCPStream.h"
+#include "../../utils/logger.h"
 
 namespace meshy{
     int32_t IOCPStream::Receive(char *buffer, int32_t bufferSize, int32_t &readSize) {

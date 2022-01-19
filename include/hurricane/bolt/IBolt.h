@@ -1,10 +1,7 @@
-rm -rf .git//
-// Created by yankaixin on 2021/12/19.
-//
 
 #ifndef HURRICANE_IBOLT_H
 #define HURRICANE_IBOLT_H
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/task/ITask.h"
+#include "../task/ITask.h"
 
 namespace hurricane{
     namespace base{

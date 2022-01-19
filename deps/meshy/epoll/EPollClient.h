@@ -1,13 +1,10 @@
-//
-// Created by yankaixin on 2021/12/23.
-//
 
 #ifndef HURRICANE_EPOLLCLIENT_H
 #define HURRICANE_EPOLLCLIENT_H
 #include <memory>
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/epoll/EpollStream.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/net.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/DataSink.h"
+#include "EpollStream.h"
+#include "../net.h"
+#include "../DataSink.h"
 namespace meshy{
     class EPollclient;
 

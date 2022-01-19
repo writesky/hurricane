@@ -1,8 +1,6 @@
-//
-// Created by yankaixin on 2021/12/25.
-//
+
 #include "/Users/yankaixin/Desktop/hurricane/deps/meshy/utils/logger.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/utils/time.h"
+#include <ctime>
 #include <iostream>
 #include <sstream>
 

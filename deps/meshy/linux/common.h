@@ -1,6 +1,3 @@
-//
-// Created by yankaixin on 2021/12/26.
-//
 
 #ifndef HURRICANE_COMMON_H
 #define HURRICANE_COMMON_H

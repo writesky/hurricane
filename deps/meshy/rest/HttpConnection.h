@@ -1,13 +1,10 @@
-//
-// Created by yankaixin on 2021/12/28.
-//
 
 #ifndef HURRICANE_HTTPCONNECTION_H
 #define HURRICANE_HTTPCONNECTION_H
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/Meshy.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/rest/HttpResponse.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/rest/HttpRequest.h"
+#include "../Meshy.h"
+#include "HttpResponse.h"
+#include "HttpRequest.h"
 #include <functional>
 
 namespace meshy{

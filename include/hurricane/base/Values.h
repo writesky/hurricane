@@ -1,6 +1,4 @@
-//
-// Created by yankaixin on 2021/12/19.
-//
+
 
 #ifndef HURRICANE_VALUES_H
 #define HURRICANE_VALUES_H

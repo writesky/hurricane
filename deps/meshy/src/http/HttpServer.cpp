@@ -1,10 +1,7 @@
-//
-// Created by yankaixin on 2022/1/3.
-//
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/rest/HttpServer.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/rest/HttpConnection.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/PackageDataSink.h"
+#include "../../rest/HttpServer.h"
+#include "../../rest/HttpConnection.h"
+#include "../../PackageDataSink.h"
 
 namespace meshy{
     HttpServer::HttpServer() {

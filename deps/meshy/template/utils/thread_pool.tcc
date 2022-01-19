@@ -1,6 +1,3 @@
-//
-// Created by yankaixin on 2021/12/25.
-//
 
 #ifndef HURRICANE_THREAD_POOL_TCC
 #define HURRICANE_THREAD_POOL_TCC

@@ -1,12 +1,10 @@
-//
-// Created by yankaixin on 2021/12/28.
-//
+
 
 #ifndef HURRICANE_HTTPSERVER_H
 #define HURRICANE_HTTPSERVER_H
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/Meshy.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/rest/HttpConnection.h"
+#include "../Meshy.h"
+#include "HttpConnection.h"
 #include <vector>
 #include <functional>
 

@@ -1,15 +1,12 @@
-//
-// Created by yankaixin on 2021/12/26.
-//
 
 #ifndef HURRICANE_EPOLLSEVER_H
 #define HURRICANE_EPOLLSEVER_H
 
 #include <memory>
 #include <barrier>
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/epoll/EpollConnection.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/PackageDataSink.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/net.h"
+#include "EpollConnection.h"
+#include "../PackageDataSink.h"
+#include "../net.h"
 
 namespace meshy{
     class Socket;

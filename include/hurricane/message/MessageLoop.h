@@ -1,6 +1,3 @@
-//
-// Created by yankaixin on 2021/12/16.
-//
 
 #ifndef HURRICANE_MESSAGELOOP_H
 #define HURRICANE_MESSAGELOOP_H

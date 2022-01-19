@@ -1,9 +1,6 @@
-//
-// Created by yankaixin on 2022/1/3.
-//
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/rest/HttpRequest.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/utils/String.h"
+#include "../../rest/HttpRequest.h"
+#include "../../utils/String.h"
 
 namespace meshy{
     void HttpRequest::ParseStdString(const std::string &text) {

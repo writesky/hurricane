@@ -1,6 +1,3 @@
-//
-// Created by yankaixin on 2021/12/26.
-//
 
 #ifndef HURRICANE_EPOLLSTREAM_H
 #define HURRICANE_EPOLLSTREAM_H
@@ -12,8 +9,8 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 #include <errno.h>
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/linux/net_linux.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/net.h"
+#include "../linux/net_linux.h"
+#include "../net.h"
 
 namespace meshy{
     class  EPollLoop;

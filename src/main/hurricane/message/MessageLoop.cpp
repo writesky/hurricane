@@ -1,10 +1,7 @@
-//
-// Created by yankaixin on 2021/12/20.
-//
 
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/Hurricane.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/message/Message.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/message/MessageLoop.h"
+#include "../../../../include/hurricane/Hurricane.h"
+#include "../../../../include/hurricane/message/Message.h"
+#include "../../../../include/hurricane/message/MessageLoop.h"
 
 #include <Windows.h>
 

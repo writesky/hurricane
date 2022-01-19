@@ -1,13 +1,10 @@
-//
-// Created by yankaixin on 2021/12/14.
-//
 
 #ifndef HURRICANE_ITASK_H
 #define HURRICANE_ITASK_H
 #pragma once
 
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/collector/OutputCollector.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/Fields.h"
+#include "../collector/OutputCollector.h"
+#include "../base/Fields.h"
 #include <memory>
 #include <vector>
 

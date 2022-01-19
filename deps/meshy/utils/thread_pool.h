@@ -1,11 +1,8 @@
-//
-// Created by yankaixin on 2021/12/25.
-//
 
 #ifndef HURRICANE_THREAD_POOL_H
 #define HURRICANE_THREAD_POOL_H
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/utils/concurrent_queue.h"
+#include "concurrent_queue.h"
 
 #include <vector>
 #include <queue>

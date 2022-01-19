@@ -1,13 +1,10 @@
-//
-// Created by yankaixin on 2021/12/22.
-//
 
 #ifndef HURRICANE_SPOUTOUTPUTCOLLECTOR_H
 #define HURRICANE_SPOUTOUTPUTCOLLECTOR_H
 #pragma once
 
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/collector/OutputCollector.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/Values.h"
+#include "../collector/OutputCollector.h"
+#include "../base/Values.h"
 
 namespace hurricane {
     namespace spout {

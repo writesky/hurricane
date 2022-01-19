@@ -1,6 +1,3 @@
-//
-// Created by yankaixin on 2021/12/25.
-//
 
 #ifndef HURRICANE_EXENDIAN_H
 #define HURRICANE_EXENDIAN_H

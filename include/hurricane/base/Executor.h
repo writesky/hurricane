@@ -1,13 +1,10 @@
-//
-// Created by yankaixin on 2021/12/20.
-//
 
 #ifndef HURRICANE_EXECUTOR_H
 #define HURRICANE_EXECUTOR_H
 #pragma once
 
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/task/ITask.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/message/MessageLoop.h"
+#include "../task/ITask.h"
+#include "../message/MessageLoop.h"
 
 #include <thread>
 #include <memory>
@@ -15,7 +12,7 @@
 #include <iostream>
 #include <mutex>
 #include <functional>
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/bolt/BoltMessage.h"
+#include "../bolt/BoltMessage.h"
 
 namespace hurricane{
     namespace base{

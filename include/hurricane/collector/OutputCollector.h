@@ -1,12 +1,11 @@
-//
-// Created by yankaixin on 2021/12/14.
+
 //数据接收器
 
 #ifndef HURRICANE_OUTPUTCOLLECTOR_H
 #define HURRICANE_OUTPUTCOLLECTOR_H
 #pragma once
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/Values.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/message/SupervisorCommander.h"
+#include "../base/Values.h"
+#include "../message/SupervisorCommander.h"
 
 namespace hurricane{
 

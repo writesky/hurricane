@@ -1,9 +1,6 @@
-//
-// Created by yankaixin on 2022/1/3.
-//
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/rest/HttpResponse.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/utils/String.h"
+#include "../../rest/HttpResponse.h"
+#include "../../utils/String.h"
 
 namespace meshy{
     std::string HttpResponse::ToStdString() const {

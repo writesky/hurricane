@@ -1,11 +1,8 @@
-//
-// Created by yankaixin on 2022/1/3.
-//
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/epoll/EpollStream.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/epoll/EPollLoop.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/utils/logger.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/bytearray.h"
+#include "../../epoll/EpollStream.h"
+#include "../../epoll/EPollLoop.h"
+#include "../../utils/logger.h"
+#include "../../bytearray.h"
 #include <unistd.h>
 
 namespace meshy{

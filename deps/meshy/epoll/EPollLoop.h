@@ -1,18 +1,15 @@
-//
-// Created by yankaixin on 2021/12/26.
-//
 
 #ifndef HURRICANE_EPOLLLOOP_H
 #define HURRICANE_EPOLLLOOP_H
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/loop.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/epoll/EPollClient.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/epoll/EpollConnection.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/epoll/EpollStream.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/epoll/EPollSever.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/net.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/DataSink.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/linux/common.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/linux/net_linux.h"
+#include "../loop.h"
+#include "EPollClient.h"
+#include "EpollConnection.h"
+#include "EpollStream.h"
+#include "EPollSever.h"
+#include "../net.h"
+#include "../DataSink.h"
+#include "../linux/common.h"
+#include "../linux/net_linux.h"
 #include <sys/epoll.h>
 #include <map>
 #include <memory>

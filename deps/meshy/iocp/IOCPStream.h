@@ -1,11 +1,8 @@
-//
-// Created by yankaixin on 2021/12/27.
-//
 
 #ifndef HURRICANE_IOCPSTREAM_H
 #define HURRICANE_IOCPSTREAM_H
 #pragma once
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/net.h"
+#include "../net.h"
 
 namespace meshy{
     class IOCPStream;

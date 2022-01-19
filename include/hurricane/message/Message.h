@@ -1,6 +1,4 @@
-//
-// Created by yankaixin on 2021/12/20.
-//
+
 
 #ifndef HURRICANE_MESSAGE_H
 #define HURRICANE_MESSAGE_H

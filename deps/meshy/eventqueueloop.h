@@ -1,13 +1,10 @@
-//
-// Created by yankaixin on 2021/12/25.
-//
 
 #ifndef HURRICANE_EVENTQUEUELOOP_H
 #define HURRICANE_EVENTQUEUELOOP_H
 
 #pragma once
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/loop.h"
+#include "loop.h"
 #include <memory>
 
 namespace meshy{

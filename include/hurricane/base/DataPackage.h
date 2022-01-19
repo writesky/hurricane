@@ -1,6 +1,3 @@
-//
-// Created by yankaixin on 2021/12/19.
-//
 
 #ifndef HURRICANE_DATAPACKAGE_H
 #define HURRICANE_DATAPACKAGE_H
@@ -14,8 +11,8 @@
 #include <map>
 #include <memory>
 #include <vector>
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/Variant.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/ByteArray.h"
+#include "Variant.h"
+#include "ByteArray.h"
 
 namespace hurricane{
     namespace base{

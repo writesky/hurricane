@@ -1,6 +1,3 @@
-//
-// Created by yankaixin on 2021/12/23.
-//
 
 #ifndef HURRICANE_NET_H
 #define HURRICANE_NET_H
@@ -8,8 +5,8 @@
 #pragma once
 
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/linux/net_linux.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/bytearray.h"
+#include "linux/net_linux.h"
+#include "bytearray.h"
 #include <memory>
 #include <string>
 #include <iostream>

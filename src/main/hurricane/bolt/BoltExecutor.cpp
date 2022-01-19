@@ -1,12 +1,9 @@
-//
-// Created by yankaixin on 2022/1/2.
-//
 
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/bolt/BoltExector.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/bolt/BoltMessage.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/message/MessageLoop.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/message/SupervisorCommander.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/bolt/BoltOutputCollector.h"
+#include "../../../../include/hurricane/bolt/BoltExector.h"
+#include "../../../../include/hurricane/bolt/BoltMessage.h"
+#include "../../../../include/hurricane/message/MessageLoop.h"
+#include "../../../../include/hurricane/message/SupervisorCommander.h"
+#include "../../../../include/hurricane/bolt/BoltOutputCollector.h"
 
 #include <iostream>
 #include <thread>

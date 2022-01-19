@@ -1,13 +1,10 @@
-//
-// Created by yankaixin on 2022/1/3.
-//
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/iocp/IOCPLoop.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/iocp/IOCPConnection.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/IoLoop.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/utils/logger.h"
+#include "../../iocp/IOCPLoop.h"
+#include "../../iocp/IOCPConnection.h"
+#include "../../IoLoop.h"
+#include "../../utils/logger.h"
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/eventqueue.h"
+#include "../../eventqueue.h"
 
 #include <thread>
 #include <vector>

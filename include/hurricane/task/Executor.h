@@ -1,11 +1,9 @@
-//
-// Created by yankaixin on 2021/12/15.
-//
+
 
 #ifndef HURRICANE_EXECUTOR_H
 #define HURRICANE_EXECUTOR_H
 #pragma once
-#include"/Users/yankaixin/Desktop/hurricane/include/hurricane/task/ITask.h"
+#include"ITask.h"
 
 namespace hurricane {
     namespace task {

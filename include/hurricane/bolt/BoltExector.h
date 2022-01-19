@@ -1,12 +1,9 @@
-//
-// Created by yankaixin on 2021/12/23.
-//
 
 #ifndef HURRICANE_BOLTEXECTOR_H
 #define HURRICANE_BOLTEXECTOR_H
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/Executor.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/bolt/IBolt.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/Values.h"
+#include "../base/Executor.h"
+#include "IBolt.h"
+#include "../base/Values.h"
 #include "BoltOutputCollector.h"
 
 namespace hurricane{

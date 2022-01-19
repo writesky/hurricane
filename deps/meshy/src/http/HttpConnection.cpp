@@ -2,9 +2,9 @@
 // Created by yankaixin on 2022/1/3.
 //
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/rest/HttpConnection.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/Meshy.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/bytearray.h"
+#include "../../rest/HttpConnection.h"
+#include "../../Meshy.h"
+#include "../../bytearray.h"
 #include <iostream>
 
 namespace meshy{

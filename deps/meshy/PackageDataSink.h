@@ -1,14 +1,10 @@
-//
-// Created by yankaixin on 2021/12/26.
-//
-
 #ifndef HURRICANE_PACKAGEDATASINK_H
 #define HURRICANE_PACKAGEDATASINK_H
 #pragma once
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/DataSink.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/bytearray.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/utils/thread_pool.h"
+#include "DataSink.h"
+#include "bytearray.h"
+#include "utils/thread_pool.h"
 
 namespace meshy{
     class EventQueue;

@@ -1,12 +1,10 @@
-//
-// Created by yankaixin on 2021/12/18.
-//
+
 
 #ifndef HURRICANE_ISPOUT_H
 #define HURRICANE_ISPOUT_H
 #pragma once
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/task/ITask.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/spout/SpoutOutputCollector.h"
+#include "../task/ITask.h"
+#include "SpoutOutputCollector.h"
 
 
 namespace hurricane{

@@ -1,13 +1,10 @@
-//
-// Created by yankaixin on 2021/12/27.
-//
 
 #ifndef HURRICANE_IOCPCONNECTION_H
 #define HURRICANE_IOCPCONNECTION_H
 #pragma once
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/net.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/iocp/IOCPStream.h"
+#include "../net.h"
+#include "IOCPStream.h"
 #include <Windows.h>
 #include <thread>
 

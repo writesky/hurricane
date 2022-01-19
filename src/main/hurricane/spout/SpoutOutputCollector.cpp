@@ -1,9 +1,6 @@
-//
-// Created by yankaixin on 2022/1/1.
-//
 
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/spout/SpoutOutputCollector.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/spout/SpoutExector.h"
+#include "../../../../include/hurricane/spout/SpoutOutputCollector.h"
+#include "../../../../include/hurricane/spout/SpoutExector.h"
 
 namespace hurricane{
     namespace spout{

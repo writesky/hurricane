@@ -1,14 +1,12 @@
-//
-// Created by yankaixin on 2021/12/29.
-//
+
 
 #ifndef HURRICANE_SUPERVISORCOMMANDER_H
 #define HURRICANE_SUPERVISORCOMMANDER_H
 
 #pragma once
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/NetAddress.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/NetConnector.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/Values.h"
+#include "../base/NetAddress.h"
+#include "../base/NetConnector.h"
+#include "../base/Values.h"
 #include <string>
 
 namespace hurricane{

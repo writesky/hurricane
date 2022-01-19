@@ -1,6 +1,3 @@
-//
-// Created by yankaixin on 2021/12/22.
-//
 
 #ifndef HURRICANE_NETADDRESS_H
 #define HURRICANE_NETADDRESS_H

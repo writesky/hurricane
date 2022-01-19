@@ -1,9 +1,7 @@
 //
-// Created by yankaixin on 2021/12/23.
-//
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/Hurricane.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/NetConnector.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/Meshy.h"
+#include "../../../../include/hurricane/Hurricane.h"
+#include "../../../../include/hurricane/base/NetConnector.h"
+#include "../../../../deps/meshy/Meshy.h"
 
 #include <thread>
 #include <chrono>

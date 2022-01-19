@@ -1,13 +1,10 @@
-//
-// Created by yankaixin on 2022/1/2.
-//
 
 #ifndef HURRICANE_NODE_H
 #define HURRICANE_NODE_H
 
 #pragma once
 
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/NetAddress.h"
+#include "NetAddress.h"
 #include <string>
 #include <ctime>
 

@@ -1,13 +1,10 @@
-//
-// Created by yankaixin on 2021/12/22.
-//
 
 #ifndef HURRICANE_NETCONNECTOR_H
 #define HURRICANE_NETCONNECTOR_H
 #pragma once
 
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/NetAddress.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/Meshy.h"
+#include "NetAddress.h"
+#include "../../../deps/meshy/Meshy.h"
 
 #include <cstdint>
 #include <memory>

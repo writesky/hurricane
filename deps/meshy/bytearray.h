@@ -1,13 +1,10 @@
-//
-// Created by yankaixin on 2021/12/25.
-//
 
 #ifndef HURRICANE_BYTEARRAY_H
 #define HURRICANE_BYTEARRAY_H
 
 #pragma once
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/utils/exendian.h"
+#include "utils/exendian.h"
 #include <cstring>
 #include <vector>
 #include <cstdint>

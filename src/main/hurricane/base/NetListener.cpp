@@ -1,13 +1,10 @@
-//
-// Created by yankaixin on 2022/1/1.
-//
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/utils/logger.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/NetListener.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/eventqueue.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/eventqueueloop.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/IoLoop.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/Hurricane.h"
+#include "../../../../deps/meshy/utils/logger.h"
+#include "../../../../include/hurricane/base/NetListener.h"
+#include "../../../../deps/meshy/eventqueue.h"
+#include "../../../../deps/meshy/eventqueueloop.h"
+#include "../../../../deps/meshy/IoLoop.h"
+#include "../../../../include/hurricane/Hurricane.h"
 
 #include <iostream>
 #include <thread>

@@ -1,13 +1,10 @@
-//
-// Created by yankaixin on 2022/1/2.
-//
 
 #ifndef HURRICANE_BOLTOUTPUTCOLLECTOR_H
 #define HURRICANE_BOLTOUTPUTCOLLECTOR_H
 
 #pragma once
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/collector/OutputCollector.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/Values.h"
+#include "../collector/OutputCollector.h"
+#include "../base/Values.h"
 
 namespace hurricane {
     namespace bolt {

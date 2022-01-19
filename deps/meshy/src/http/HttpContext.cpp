@@ -1,12 +1,9 @@
-//
-// Created by yankaixin on 2022/1/3.
-//
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/rest/HttpContext.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/Meshy.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/bytearray.h"
+#include "../../rest/HttpContext.h"
+#include "../../Meshy.h"
+#include "../../bytearray.h"
 #include <iostream>
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/utils/String.h"
+#include "../../utils/String.h"
 
 StdStringList HttpContext::GetHeaderNames() const {  //获取属性名
     StdStringList headerNames;

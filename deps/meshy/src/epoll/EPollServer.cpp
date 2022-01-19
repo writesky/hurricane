@@ -2,11 +2,11 @@
 // Created by yankaixin on 2022/1/3.
 //
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/epoll/EPollSever.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/epoll/EPollLoop.h"
+#include "../../epoll/EPollSever.h"
+#include "../../epoll/EPollLoop.h"
 #include <unistd.h>
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/utils/logger.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/utils/common_utils.h"
+#include "../../utils/logger.h"
+#include "../../utils/common_utils.h"
 #include <cstdint>
 #include <cassert>
 

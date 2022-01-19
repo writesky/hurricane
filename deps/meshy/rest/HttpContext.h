@@ -1,11 +1,8 @@
-//
-// Created by yankaixin on 2021/12/28.
-//
 
 #ifndef HURRICANE_HTTPCONTEXT_H
 #define HURRICANE_HTTPCONTEXT_H
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/bytearray.h"
+#include "../bytearray.h"
 #include <map>
 #include <string>
 #include <vector>

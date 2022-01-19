@@ -1,11 +1,8 @@
-//
-// Created by yankaixin on 2021/12/28.
-//
 
 #ifndef HURRICANE_HTTPRESPONSE_H
 #define HURRICANE_HTTPRESPONSE_H
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/rest/HttpContext.h"
+#include "HttpContext.h"
 
 namespace meshy{
     class HttpResponse:public HttpContext{

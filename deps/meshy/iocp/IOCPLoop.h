@@ -1,16 +1,13 @@
-//
-// Created by yankaixin on 2021/12/27.
-//
 
 #ifndef HURRICANE_IOCPLOOP_H
 #define HURRICANE_IOCPLOOP_H
 
 #pragma once
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/loop.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/DataSink.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/iocp/IOCPServer.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/iocp/IOCPConnection.h"
+#include "../loop.h"
+#include "../DataSink.h"
+#include "IOCPServer.h"
+#include "IOCPConnection.h"
 
 #include <WinSock2.h>
 #include <Windows.h>

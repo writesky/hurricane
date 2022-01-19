@@ -1,13 +1,11 @@
-//
-// Created by yankaixin on 2021/12/20.
-//
+
 
 #ifndef HURRICANE_BOLTMESSAGE_H
 #define HURRICANE_BOLTMESSAGE_H
 #pragma once
 
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/message/Message.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/Values.h"
+#include "../message/Message.h"
+#include "../base/Values.h"
 
 namespace hurricane{
     namespace bolt{

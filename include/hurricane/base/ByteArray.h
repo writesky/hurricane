@@ -1,6 +1,3 @@
-//
-// Created by yankaixin on 2021/12/30.
-//
 
 #ifndef HURRICANE_BYTEARRAY_H
 #define HURRICANE_BYTEARRAY_H

@@ -1,15 +1,12 @@
-//
-// Created by yankaixin on 2021/12/27.
-//
 
 #ifndef HURRICANE_IOCPCLIENT_H
 #define HURRICANE_IOCPCLIENT_H
 #pragma once
 
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/iocp/IOCPStream.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/net.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/DataSink.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/iocp/IOCPConnection.h"
+#include "IOCPStream.h"
+#include "../net.h"
+#include "../DataSink.h"
+#include "IOCPConnection.h"
 #include <memory>
 
 namespace meshy{

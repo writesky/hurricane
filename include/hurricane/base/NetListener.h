@@ -1,14 +1,11 @@
-//
-// Created by yankaixin on 2021/12/23.
-//
 
 #ifndef HURRICANE_NETLISTENER_H
 #define HURRICANE_NETLISTENER_H
 #pragma once
 
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/NetAddress.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/net.h"
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/Meshy.h"
+#include "NetAddress.h"
+#include "../../../deps/meshy/net.h"
+#include "../../../deps/meshy/Meshy.h"
 
 #include <vector>
 #include <iostream>
@@ -17,7 +14,7 @@
 #include <memory>
 #include <functional>
 #include <cstdint>
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/Meshy.h"
+#include "../../../deps/meshy/Meshy.h"
 
 typedef std::function<void (meshy::TcpStream* connection,const char* buffer,int32_t size)> DataReceiver;  //数据接收处理函数
 

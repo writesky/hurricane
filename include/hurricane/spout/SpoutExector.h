@@ -1,11 +1,8 @@
-//
-// Created by yankaixin on 2021/12/23.
-//
 
 #ifndef HURRICANE_SPOUTEXECTOR_H
 #define HURRICANE_SPOUTEXECTOR_H
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/base/Executor.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/spout/ISpout.h"
+#include "../base/Executor.h"
+#include "../spout/ISpout.h"
 
 #include<iostream>
 

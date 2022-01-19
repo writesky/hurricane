@@ -1,10 +1,7 @@
-//
-// Created by yankaixin on 2022/1/1.
-//
 
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/spout/SpoutExector.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/message/SupervisorCommander.h"
-#include "/Users/yankaixin/Desktop/hurricane/include/hurricane/spout/SpoutOutputCollector.h"
+#include "../../../../include/hurricane/spout/SpoutExector.h"
+#include "../../../../include/hurricane/message/SupervisorCommander.h"
+#include "../../../../include/hurricane/spout/SpoutOutputCollector.h"
 
 #include <iostream>
 #include <string>
