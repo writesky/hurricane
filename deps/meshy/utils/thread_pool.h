@@ -37,5 +37,5 @@ namespace meshy{
         ConcurrentQueue<Type> _tasks;
     };
 }
-#include "/Users/yankaixin/Desktop/hurricane/deps/meshy/template/utils/thread_pool.tcc"
+#include "../utils/thread_pool.tcc"
 #endif //HURRICANE_THREAD_POOL_H
